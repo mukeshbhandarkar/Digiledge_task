@@ -32,20 +32,20 @@ Face detection is the process of automatically locating faces in a photograph an
 we will also use the Multi-Task Cascaded Convolutional Neural Network, or MTCNN, for face detection, e.g. finding and extracting faces from photos.
 
  digiledge
- -train
-  -ben_afflek
-  -elton_john
-  -jerry_seinfeld
-  -madonna
-  -mindy_kaling
-  -mukesh
- -val
-  -ben_afflek
-  -elton_john
-  -jerry_seinfeld
-  -madonna
-  -mindy_kaling
-  -mukesh
+ 1.train
+      -ben_afflek
+      -elton_john
+      -jerry_seinfeld
+      -madonna
+      -mindy_kaling
+      -mukesh
+  2.val
+      -ben_afflek
+      -elton_john
+      -jerry_seinfeld
+      -madonna
+      -mindy_kaling
+      -mukesh
 
 
 ### Loss function i used
