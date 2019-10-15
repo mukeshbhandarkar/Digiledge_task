@@ -45,4 +45,5 @@ FaceNet: A Unified Embedding for Face Recognition and Clustering, 2015.[here](ht
 
 OpenFace Keras Project, GitHub.[here](https://github.com/iwantooxxoox/Keras-OpenFace)
 
-NOte: I'm Using > google colab 
+NOte: I'm Using 
+> google colab 
