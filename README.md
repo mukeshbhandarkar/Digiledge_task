@@ -38,6 +38,7 @@ The idea of comparative loss can be further extended from two examples to three,
 The loss function penalizes the model such that the distance between the matching examples is reduced and the distance between the non-matching examples is increased.
 The triplets that are used to train the model are carefully chosen.
 Triplets that are easy, result in a small loss, and are not effective at updating the model. Instead, hard triplets are sought that encourage changes to the model and the predicted face embeddings.
+![here](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/Example-of-The-Effect-on-Anchor-Positive-and-Negative-both-Before-and-After-Applying-Triplet-Loss.png)
 
 References:
 
