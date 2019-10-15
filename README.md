@@ -57,3 +57,10 @@ OpenFace Keras Project, GitHub.[here](https://github.com/iwantooxxoox/Keras-Open
 
 NOte: I'm Using 
 > google colab 
+
+### Steps to execute the program
+1. First _Clone my repository and download_ into your local system then extract it.
+2. Go to google colabaratory signin with your own account.![pic](https://prnt.sc/pjq9a2)
+
+
+
