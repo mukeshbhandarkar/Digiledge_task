@@ -9,6 +9,15 @@ create a face recognition program using TensorFlow.
 I created face recognition program with the help of public dataset which includes 5 ** celebraties ** from kaggle
 [click here](https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset) and i added my face pic into dataset for identifying faces as per task full dataset [click here](https://drive.google.com/open?id=1X57BZGw6NgyMWsLHZbRArYJ0hdoiL3oU).
 
+train | val
+------------ | -------------
+ben_afflek | ben_afflek
+elton_john | elton_john
+jerry_seinfeld | jerry_seinfeld
+madonna   | madonna
+mindy_kaling  | mindy_kaling 
+mukesh  | mukesh
+
 ### This tutorial is divided into five parts; they are:
 
     Face Recognition
