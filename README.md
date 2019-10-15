@@ -60,9 +60,9 @@ NOte: I'm Using
 
 ### Steps to execute the program
 1. First _Clone my repository and download_ into your local system then extract it.
-2. Go to google colabaratory signin with your own account.![pic](https://prnt.sc/pjq9a2)
-3. Upload digiledge.ipynb file ![pic](https://prnt.sc/pjqfgu)
-4. Start Executing but first download the all data as i given link above for data which will use to run model. From gdrive simply download the data or mount to your gdrive and nevigate to proper directory. ![pic](https://prnt.sc/pjqiwr),authorizationcode is like ![here](https://prnt.sc/pjqjmw) insert as it is it will start execute.
-5. after executing just goto Files and refresh it ![pic](https://prnt.sc/pjqnjx)
+2. Go to google colabaratory signin with your own account.[pic](https://prnt.sc/pjq9a2)
+3. Upload digiledge.ipynb file [pic](https://prnt.sc/pjqfgu)
+4. Start Executing but first download the all data as i given link above for data which will use to run model. From gdrive simply download the data or mount to your gdrive and nevigate to proper directory. [pic](https://prnt.sc/pjqiwr),authorizationcode is like [here](https://prnt.sc/pjqjmw) insert as it is it will start execute.
+5. after executing just goto Files and refresh it [pic](https://prnt.sc/pjqnjx)
 6. follow step by step with simply executing each and every cell. 
 Happy Coding! :relaxed:
